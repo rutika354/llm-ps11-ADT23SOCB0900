@@ -1,0 +1,36 @@
+
+COLLEGE NAME: MIT ADT Engineering College
+
+ABOUT THE COLLEGE:
+MIT ADT Engineering College provides undergraduate
+engineering education.
+
+COURSES OFFERED:
+1. Computer Science Engineering
+2. Mechanical Engineering
+3. Civil Engineering
+4. Electronics Engineering
+
+COURSE DURATION:
+All B.Tech courses have a duration of 4 years.
+
+ADMISSION PROCESS:
+Students must apply through the official
+college admission procedure.
+
+ELIGIBILITY:
+Students must have completed 12th standard
+with Physics and Mathematics and other
+required subjects as specified by the college.
+
+FEE STRUCTURE:
+Annual tuition fee: Rs. 2,35,000.
+Additional charges may apply.
+
+CONTACT INFORMATION:
+Email: admissions@mitadtcollege.edu
+Phone: 9876543210
+
+HOSTEL:
+Information about hostel facilities is
+not available in this information sheet.
